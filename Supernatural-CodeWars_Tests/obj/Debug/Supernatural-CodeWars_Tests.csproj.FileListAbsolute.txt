@@ -1,0 +1,7 @@
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\obj\Debug\Supernatural-CodeWars_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\bin\Debug\Supernatural-CodeWars_Tests.dll
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\bin\Debug\Supernatural-CodeWars_Tests.pdb
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\bin\Debug\Supernatural-CodeWars.exe
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\bin\Debug\Supernatural-CodeWars.pdb
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\obj\Debug\Supernatural-CodeWars_Tests.dll
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\Supernatural-CodeWars\Supernatural-CodeWars_Tests\obj\Debug\Supernatural-CodeWars_Tests.pdb
